@@ -1,0 +1,12 @@
+{
+  "name": "web-nokos-wa",
+  "version": "1.0.0",
+  "description": "Website Nokos WA Fullstack Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
